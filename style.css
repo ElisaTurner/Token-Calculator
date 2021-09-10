@@ -1,0 +1,19 @@
+body {
+    background-color: #cccccc;
+    width:20%;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+
+}
+
+
+div {
+    width: 450px;
+    height: 300px;
+    border: 5px solid #c3c3c3;
+    
+ }
+ h1 {
+    text-align: center;
+ }
